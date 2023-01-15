@@ -239,13 +239,13 @@
 
 .car-toggle {
   display: flex;
-  width: 194px;
+  width: 191px;
   border: 1px solid gray;
   margin: 20px 0;
 }
 
 .car-toggle div {
-  padding: 20px;
+  padding: 20px 17px;
   background: white;
   box-sizing: border-box;
   text-align: center;
